@@ -1,0 +1,5 @@
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: black; /* Rende il pulsante visibile */
+  border-radius: 50%; /* Aggiunge uno sfondo tondeggiante */
+}
